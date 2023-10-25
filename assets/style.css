@@ -1,0 +1,73 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500;700&display=swap');
+
+  
+
+
+h1{
+    font-family: 'Lora', serif;
+    text-align: center;
+
+}
+.extrabar h3{
+    color:orange;
+    margin-bottom: 0;
+}
+.extrabar a{
+    color:#28b3a7;
+}
+body{
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+p{
+    font-family: 'Lora', serif;
+}
+main{
+    font-family: 'Lora', serif;
+}
+main li{
+    margin: 10px;
+}
+main hr{
+    border:1px solid #e2ebf7;
+
+}
+figure {
+    margin: 0;
+    text-align: center;
+    
+}
+figcaption{
+    color: lightgray;
+}
+figure img{
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 5px 5px 5px 0px grey;
+}
+
+.marginlogo{
+    margin-left: 10em;
+    margin-right:10em;
+    scale: 0.5;
+    
+}
+header h3{
+    color: #235123;
+    text-align: center;
+    font-size: 0.9em;
+}
+header hr{
+    border:1px solid orange;
+
+}
+
+#yellowbar{
+    background-color: rgb(255 255 235);
+}
+#yellowbar hr{
+    max-width: auto;
+}
